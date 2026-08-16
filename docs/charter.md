@@ -1,6 +1,7 @@
 # Herald — Webhook Delivery Platform (Project Charter)
 
 **Owner:** Steven Ang
+**Repository:** https://github.com/stevenang/herald (public, PR-based workflow — live as of 2026-08-15)
 **Timeline:** September 2026 → end of December 2026 (ongoing side project)
 **Goal:** A portfolio project that positions Steven as a **Senior Software Engineer (Platform/Backend)**, deliberately counter-weighting the "Senior Data Engineer" perception.
 **Status:** Charter agreed 2026-08-15 · open questions resolved 2026-08-15 (see §6)
