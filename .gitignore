@@ -1,14 +1,15 @@
 # Gradle
 .gradle/
 build/
-!gradle/wrapper/gradle-wrapper.jar
 
 # Kotlin / JVM
 *.class
 *.jar
 *.war
-!gradle-wrapper.jar
 hs_err_pid*
+
+# Exceptions — must stay after the rules above
+!gradle-wrapper.jar
 
 # IDE
 .idea/
